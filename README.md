@@ -1,4 +1,4 @@
-# Weather-AI-assistant
+# Weather AI assistant
 AI-powered weather assistant that extracts location information from user input, retrieves the temperature, translates it to another language, generates an audio response using OpenAI Speech API, creates an image using DALL-E, and utilizes OpenAI's Vision Preview to extract text from the image.
 
 ## **Project Description:**
@@ -9,8 +9,8 @@ This project is an AI-powered weather assistant designed to extract location inf
 
 1. **Clone the Repository:**
 ```{r}
-git clone https://github.com/your_username/weather-ai-assistant.git
-cd weather-ai-assistant
+git clone https://github.com/marmiskarian/Weather-AI-assistant.git
+cd Weather-AI-assistant
 ```
 
 2. **Install Requirements:**
